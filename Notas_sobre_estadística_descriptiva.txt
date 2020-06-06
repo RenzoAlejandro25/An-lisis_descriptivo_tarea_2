@@ -1,0 +1,40 @@
+Estas técnicas nos ayudan a tener una idea de la composición de la población de estudio
+
+  1. Técnicas gráficas 
+  
+    a. Variables cualitativas y cuantitativas discretas -> gráfico de sectores(pie),          gráfico de barras. 
+    
+    b. Variables cuantitativas -> histograma, el diagrama de tallos y hojas; y el diagrama     de caja y bigotes.
+    
+  2. Tablas estádisticas 
+  
+    a. Tablas de frecuencias. 
+  
+Estas técticas sirven para resumir todos los datos recogidos.
+
+  1. Medidas de posición: 
+  
+    a. Medidas de tencia central: nos interesa localizar el centro de la distribución.
+      Tenemos a la media, media y moda. 
+    b. Medidas de tencia no central: los cauntiles son las medidas más populares de este      tipo. También estan los valores máximos y mínimos 
+    
+  2. Medidas de dispersión:
+  
+  Tratan de cuantificar el esparcimiento de los datos informando acerca de la mayor o       menor representatividad de las medidas de tendencia central. Las más usadas son: 
+  
+    a. La varianza
+    
+    b. La desviación estándar
+    
+    c. El rango intercuartílico
+    
+  3. Medidas de forma
+  
+  Se centran en el estudio de la forma que tiene la distribución de una variable.
+  
+    a. Skewness: sirve para evaluar la simetría de una distribución.
+    
+    b. Curtosís: Sirve para evaluar en que posición se situan la mayoria de los valores de     una variable aleatoria. 
+    
+
+    
